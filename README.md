@@ -1,5 +1,4 @@
-#Bomberman
-
+# Bomberman
 
 How to run the project?
 1. Download and extract the file
